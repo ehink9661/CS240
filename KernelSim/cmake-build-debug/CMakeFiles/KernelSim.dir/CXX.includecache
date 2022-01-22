@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ethan Hinkle/CLionProjects/KernelSim/ksim.cpp
+ksim.h
+C:/Users/Ethan Hinkle/CLionProjects/KernelSim/ksim.h
+
+C:/Users/Ethan Hinkle/CLionProjects/KernelSim/ksim.h
+iostream
+-
+sstream
+-
+string
+-
+cstring
+-
+cstdio
+-
+
+C:/Users/Ethan Hinkle/CLionProjects/KernelSim/main.cpp
+ksim.h
+C:/Users/Ethan Hinkle/CLionProjects/KernelSim/ksim.h
+
